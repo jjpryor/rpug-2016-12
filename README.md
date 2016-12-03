@@ -1,4 +1,4 @@
-# rpug-2016-12 Notes
+# 2016-12 Raleigh Puppet User Group notes
 
 ## Puppet ecosystem announcements and news bits
 + Puppet 3 EOL announcement and discussion
@@ -19,6 +19,6 @@
 + [SysAdvent is on-going](http://sysadvent.blogspot.co.uk)
   - "One article for each day of December, ending on the 25th article. With the goals of of sharing, openness, and mentoring, we aim to provide great articles about systems administration topics written by fellow sysadmins."
 + R.I.Pienaar's Devo Newsletter
-  - Why search for quality news when R.I.Pienaar is smart person and curates a collection of quality news bits?
-  - [12/02/2016 - Devco Newsletter #5](http://us14.campaign-archive1.com/home/?u=48a10a5d8254d034473c9ca1c&id=38d0f6d5e9)
-  - [Visit devco.net and sign up at the bar above](https://www.devco.net/)
+  - Don't want to search for high quality blog postings and news items? Good, because  R.I.Pienaar is smart person and curates a collection of quality news bits delivered to your email about once a week.
+  - [Devco Newsletter \#5 12/02/2016](http://eepurl.com/crxpqH) and [past newletters](http://us14.campaign-archive1.com/home/?u=48a10a5d8254d034473c9ca1c&id=38d0f6d5e9)
+  - [Visit devco.net and sign up at the bar on the top of the page](https://www.devco.net/)
