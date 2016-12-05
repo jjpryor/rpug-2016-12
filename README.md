@@ -11,6 +11,8 @@
   - "The Puppet facts importer now supports structured facts that are sent by Facter 2 and higher. These are imported in a similar way to regular facts, but the hierarchy can be browsed and filtered from the facts list in the Foreman UI."
 + [GitHib released octocatalog-diff back in October](http://githubengineering.com/octocatalog-diff-github-s-puppet-development-and-testing-tool/)
   - "... help reduce the time required for these testing cycles. With this tool, developers are able to preview the effects of their change across all roles via a distributed 'catalog difference' test that takes less than three minutes to run. Because of reduced testing cycles and increased confidence in their deployments, developers can iterate much faster on their Puppet code changes."
++ [puppet-dev list discussion on 'Rethinking Collections'](https://groups.google.com/forum/#!msg/puppet-dev/3-HSUz5OnHg/d69ygEO0CgAJ)
+  -  Eric Sorenson of Puppet says: "tl;dr: We are proposing moving the open source package repositories back to a single repository for Puppet-owned projects and their dependencies. This represents a shift from our stated plan to release major-version releases that might contain backwards incompatibilities into their own Puppet Collection repositories, but as a result it will be less confusing to use the packages and easier to stay current." 
 
 ## Local Triangle Tech news
 + [All Things Open](https://allthingsopen.org), held in October 2016, has posted the [videos on their YouTube channel](https://www.youtube.com/channel/UCBhXFK70DbOU15N2BhDQVTg/videos), [photos albums on Flickr](https://www.flickr.com/photos/allthingsopen/albums), and [slides at SlideShare](http://www.slideshare.net/AllThingsOpen/presentations).
